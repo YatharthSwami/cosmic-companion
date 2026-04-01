@@ -150,7 +150,7 @@ const Index = () => {
       {/* How It Works */}
       <section className="py-24 px-6">
         <div className="container mx-auto max-w-4xl">
-          <h2 className="font-display text-3xl md:text-4xl font-bold text-center mb-16 text-gradient-gold">
+          <h2 className="font-display text-4xl md:text-5xl font-black text-center mb-16 text-gradient-gold">
             How It Works
           </h2>
 
