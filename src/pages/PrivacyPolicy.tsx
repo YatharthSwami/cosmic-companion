@@ -57,10 +57,10 @@ const PrivacyPolicy = () => {
 
           <section>
             <h2 className="font-display text-lg font-bold text-foreground mb-3">4. Data Storage & Security</h2>
-            <p>Your data is stored using <strong>Supabase</strong>, a cloud-based backend-as-a-service platform. Please be aware of the following:</p>
+            <p>Your data is stored using secure cloud infrastructure. Please be aware of the following:</p>
             <ul className="list-disc pl-6 space-y-1 mt-2">
               <li>Your data is <strong>not encrypted at the application level</strong> by Kundli AI</li>
-              <li>Supabase provides infrastructure-level security including encryption at rest (AES-256) and encryption in transit (TLS/SSL)</li>
+              <li>Our cloud infrastructure provider implements industry-standard security including encryption at rest (AES-256) and encryption in transit (TLS/SSL)</li>
               <li>We implement access controls and authentication mechanisms to restrict unauthorized access to your data</li>
               <li>Despite our efforts, no method of electronic storage or transmission over the internet is 100% secure, and we cannot guarantee absolute security</li>
             </ul>
