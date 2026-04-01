@@ -92,7 +92,7 @@ const Index = () => {
             />
           </div>
 
-          <h1 className="font-display text-5xl md:text-7xl font-bold mb-6 text-gradient-gold leading-tight">
+          <h1 className="font-display text-6xl md:text-8xl font-black mb-6 text-gradient-gold leading-tight">
             Kundli AI
           </h1>
 
