@@ -35,7 +35,7 @@ const PrivacyPolicy = () => {
               <li><strong>Personal Information:</strong> Name, phone number (via WhatsApp), date of birth, time of birth, and place of birth</li>
               <li><strong>Chat Data:</strong> Messages you send to and receive from the Kundli AI chatbot on WhatsApp</li>
               <li><strong>Usage Data:</strong> Interaction patterns, feature usage, timestamps of conversations, and frequency of use</li>
-              <li><strong>Device Information:</strong> Information provided by WhatsApp such as device type, operating system (as available through the WhatsApp Business API)</li>
+              <li><strong>Device Information:</strong> Information provided by WhatsApp such as device type, operating system (as available through the WhatsApp platform)</li>
               <li><strong>Generated Content:</strong> Kundli charts, horoscope readings, and other astrological outputs generated for you</li>
             </ul>
           </section>
@@ -57,10 +57,10 @@ const PrivacyPolicy = () => {
 
           <section>
             <h2 className="font-display text-lg font-bold text-foreground mb-3">4. Data Storage & Security</h2>
-            <p>Your data is stored using <strong>Supabase</strong>, a cloud-based backend-as-a-service platform. Please be aware of the following:</p>
+            <p>Your data is stored using secure cloud infrastructure. Please be aware of the following:</p>
             <ul className="list-disc pl-6 space-y-1 mt-2">
               <li>Your data is <strong>not encrypted at the application level</strong> by Kundli AI</li>
-              <li>Supabase provides infrastructure-level security including encryption at rest (AES-256) and encryption in transit (TLS/SSL)</li>
+              <li>Our cloud infrastructure provider implements industry-standard security including encryption at rest (AES-256) and encryption in transit (TLS/SSL)</li>
               <li>We implement access controls and authentication mechanisms to restrict unauthorized access to your data</li>
               <li>Despite our efforts, no method of electronic storage or transmission over the internet is 100% secure, and we cannot guarantee absolute security</li>
             </ul>
@@ -71,7 +71,7 @@ const PrivacyPolicy = () => {
             <h2 className="font-display text-lg font-bold text-foreground mb-3">5. Data Sharing & Disclosure</h2>
             <p>We do <strong>not</strong> sell your personal information. We may share your data in the following circumstances:</p>
             <ul className="list-disc pl-6 space-y-1 mt-2">
-              <li><strong>Service Providers:</strong> With third-party providers (such as Supabase, AI model providers, and WhatsApp/Meta) who assist in operating the Service, subject to confidentiality obligations</li>
+              <li><strong>Service Providers:</strong> With third-party providers (such as our cloud infrastructure provider, AI model providers, and Meta) who assist in operating the Service, subject to confidentiality obligations</li>
               <li><strong>Legal Requirements:</strong> When required by law, court order, or governmental authority, or when we believe disclosure is necessary to protect our rights, your safety, or the safety of others</li>
               <li><strong>Business Transfers:</strong> In connection with a merger, acquisition, or sale of assets, your data may be transferred to the acquiring entity</li>
               <li><strong>With Your Consent:</strong> When you explicitly consent to sharing your data with a specific third party</li>
@@ -109,7 +109,7 @@ const PrivacyPolicy = () => {
 
           <section>
             <h2 className="font-display text-lg font-bold text-foreground mb-3">10. International Data Transfers</h2>
-            <p>Your data may be stored and processed in servers located outside your country of residence, including regions where Supabase operates its infrastructure. By using the Service, you consent to the transfer of your data to these locations. We ensure that appropriate safeguards are in place for such transfers.</p>
+            <p>Your data may be stored and processed in servers located outside your country of residence, including regions where our cloud infrastructure provider operates. By using the Service, you consent to the transfer of your data to these locations. We ensure that appropriate safeguards are in place for such transfers.</p>
           </section>
 
           <section>
