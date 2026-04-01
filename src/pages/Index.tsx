@@ -201,6 +201,11 @@ const Index = () => {
             <img src={logo} alt="Kundli AI" width={24} height={24} className="rounded" />
             <span className="font-display text-gradient-gold">Kundli AI</span>
           </div>
+          <div className="flex items-center gap-4">
+            <Link to="/terms" className="hover:text-foreground transition-colors">Terms of Service</Link>
+            <Link to="/privacy" className="hover:text-foreground transition-colors">Privacy Policy</Link>
+            <Link to="/account-deletion" className="hover:text-foreground transition-colors">Account Deletion</Link>
+          </div>
           <p>© {new Date().getFullYear()} Kundli AI. All rights reserved.</p>
         </div>
       </footer>
