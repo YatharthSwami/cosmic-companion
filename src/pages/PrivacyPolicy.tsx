@@ -109,7 +109,7 @@ const PrivacyPolicy = () => {
 
           <section>
             <h2 className="font-display text-lg font-bold text-foreground mb-3">10. International Data Transfers</h2>
-            <p>Your data may be stored and processed in servers located outside your country of residence, including regions where Supabase operates its infrastructure. By using the Service, you consent to the transfer of your data to these locations. We ensure that appropriate safeguards are in place for such transfers.</p>
+            <p>Your data may be stored and processed in servers located outside your country of residence, including regions where our cloud infrastructure provider operates. By using the Service, you consent to the transfer of your data to these locations. We ensure that appropriate safeguards are in place for such transfers.</p>
           </section>
 
           <section>
