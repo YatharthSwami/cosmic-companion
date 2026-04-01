@@ -45,7 +45,7 @@ const Index = () => {
       <nav className="fixed top-0 w-full z-50 bg-background/80 backdrop-blur-xl border-b border-border/50">
         <div className="container mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <img src={logo} alt="Kundli AI" width={40} height={40} className="rounded-lg" />
+            <img src={logo} alt="Kundli AI" width={48} height={48} className="rounded-lg" />
             <span className="font-display text-xl text-gradient-gold font-bold">Kundli AI</span>
           </div>
           <a
