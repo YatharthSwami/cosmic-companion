@@ -135,10 +135,10 @@ const Index = () => {
                 <div className="w-12 h-12 rounded-xl bg-accent/10 flex items-center justify-center mb-5 group-hover:bg-accent/20 transition-colors">
                   <feature.icon size={24} className="text-accent" />
                 </div>
-                <h3 className="font-display text-lg font-bold mb-3 text-foreground">
+                <h3 className="font-display text-xl font-bold mb-3 text-foreground">
                   {feature.title}
                 </h3>
-                <p className="text-muted-foreground text-sm leading-relaxed">
+                <p className="text-muted-foreground text-base leading-relaxed">
                   {feature.description}
                 </p>
               </div>
