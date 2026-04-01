@@ -35,7 +35,7 @@ const PrivacyPolicy = () => {
               <li><strong>Personal Information:</strong> Name, phone number (via WhatsApp), date of birth, time of birth, and place of birth</li>
               <li><strong>Chat Data:</strong> Messages you send to and receive from the Kundli AI chatbot on WhatsApp</li>
               <li><strong>Usage Data:</strong> Interaction patterns, feature usage, timestamps of conversations, and frequency of use</li>
-              <li><strong>Device Information:</strong> Information provided by WhatsApp such as device type, operating system (as available through the WhatsApp Business API)</li>
+              <li><strong>Device Information:</strong> Information provided by WhatsApp such as device type, operating system (as available through the WhatsApp platform)</li>
               <li><strong>Generated Content:</strong> Kundli charts, horoscope readings, and other astrological outputs generated for you</li>
             </ul>
           </section>
