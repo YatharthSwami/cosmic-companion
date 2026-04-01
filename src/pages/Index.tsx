@@ -109,7 +109,7 @@ const Index = () => {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-gradient-gold text-accent-foreground px-10 py-4 rounded-full text-lg font-bold hover:opacity-90 transition-all glow-gold hover:scale-105 transform"
           >
-            <MessageCircle size={24} />
+            <WhatsAppIcon size={24} />
             Start Chatting on WhatsApp
           </a>
         </div>
