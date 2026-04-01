@@ -71,7 +71,7 @@ const PrivacyPolicy = () => {
             <h2 className="font-display text-lg font-bold text-foreground mb-3">5. Data Sharing & Disclosure</h2>
             <p>We do <strong>not</strong> sell your personal information. We may share your data in the following circumstances:</p>
             <ul className="list-disc pl-6 space-y-1 mt-2">
-              <li><strong>Service Providers:</strong> With third-party providers (such as Supabase, AI model providers, and WhatsApp/Meta) who assist in operating the Service, subject to confidentiality obligations</li>
+              <li><strong>Service Providers:</strong> With third-party providers (such as our cloud infrastructure provider, AI model providers, and Meta) who assist in operating the Service, subject to confidentiality obligations</li>
               <li><strong>Legal Requirements:</strong> When required by law, court order, or governmental authority, or when we believe disclosure is necessary to protect our rights, your safety, or the safety of others</li>
               <li><strong>Business Transfers:</strong> In connection with a merger, acquisition, or sale of assets, your data may be transferred to the acquiring entity</li>
               <li><strong>With Your Consent:</strong> When you explicitly consent to sharing your data with a specific third party</li>
