@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/cosmic-companion/",
+  base: "/KundliAI/",
   server: {
     host: "::",
     port: 8080,
