@@ -4,7 +4,7 @@ import WhatsAppIcon from "@/components/WhatsAppIcon";
 import logo from "@/assets/kundli-ai-logo.png";
 import heroBg from "@/assets/hero-bg.jpg";
 
-const WHATSAPP_LINK = "https://wa.me/YOUR_NUMBER_HERE";
+const WHATSAPP_LINK = "https://wa.me/916377943974?text=Hey%20KundliAI!";
 
 const features = [
   {
